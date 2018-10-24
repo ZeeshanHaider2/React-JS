@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.comment-box {
+  border: 5px solid rgb(6, 60, 104);
+  font-size: 30px;
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding: 20px;
+}
+.heading {
+  text-align: center;
+}
+.sub-box {
+  background: rgb(184, 154, 79);
+  padding: 20px;
+}
+.body {
+  color: rgb(245, 8, 8);
+  background: rgb(189, 166, 109);
+  padding: 20px;
+}
