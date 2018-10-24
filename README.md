@@ -1,2 +1,2 @@
 # React-JS
-## This repository contains HYF Assignments and other projects made by using React.js.
+## This repository contains HYF Assignments and other projects created by using React.js.
