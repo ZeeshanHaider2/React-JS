@@ -13,6 +13,7 @@ class App extends React.Component {
         {toDos.map(toDo => {
           return (
             <Comment
+              key={toDo.id}
               listItem={toDo.listItem}
               body={toDo.body}
               description={toDo.description}
