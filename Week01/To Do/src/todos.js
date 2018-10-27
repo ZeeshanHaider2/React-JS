@@ -13,7 +13,7 @@ export const toDos = [
     body: "Deadline:Thu Sep 14 2017"
   },
   {
-    listItem: { id: 2, task: "Eat breakfast" },
+    listItem: { id: 3, task: "Eat breakfast" },
     description: "It is always nice to start the day with a helthy breakfast.",
     body: "Deadline:Fri Sep 15 2017"
   }
