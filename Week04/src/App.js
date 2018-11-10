@@ -64,9 +64,7 @@ class App extends Component {
         <h1>Git User Search</h1>
         <input ref="username" type="text" placeholder="search Git user name" />
         <button onClick={e => this.handleSubmit(e)}>search</button>
-        <p>
-          {user}
-        </p>
+       
       </div>
     );
   }
